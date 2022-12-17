@@ -32,3 +32,13 @@ print(ci)
 
 plt.hist(theta_hats)
 plt.show()
+
+import numpy as np
+print(np.exp(0.0702))
+
+import numpy as np
+print(np.exp( -5.2471+1.0839))
+
+
+import numpy as np
+print(np.exp( -5.2471+ 0.3698+53*0.0702))
